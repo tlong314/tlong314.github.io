@@ -17,6 +17,10 @@ This is a sample drawing application with multiple UI components with complex fu
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/pattern-designer2.png)
 
+The web app gives the end user options to automatically perform extra tasks such as painting above, below, or inside a curve, and adjusting opacity/transparency. With these options set, the colorful pattern below was created with a few quick swipes:
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/pattern_drawing.png)
+
 
 ## Decoder Glass
 
