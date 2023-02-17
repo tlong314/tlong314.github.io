@@ -35,9 +35,13 @@ This mobile application was developed with Android Studio (using its direct UI e
 
 Color Palettes
 
-Modern design aesthetics often rely on vibrant colors. Below are some sample color palettes I have created. The first palette was developed for my JavaScript-based game engine, cmgame.js. The color screenshots that follow are all from the math game "Swipe Correct" I developed for collegemathgames.com.
+Modern design aesthetics involve carefully chosen colors and a palette suitable for the current project. Below are some sample color palettes I have created. The first palette was developed for my JavaScript-based game engine, cmgame.js, and is inspired by modern flat design palettes. The vibrant color screenshots that follow are all from the math game "Swipe Correct" I developed for collegemathgames.com.
+
+(CMGame engine, cmgame.js)
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/cmg_palette.png)
+
+(Swipe Correct)
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe1_small.png)
 
