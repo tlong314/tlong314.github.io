@@ -20,7 +20,7 @@ This is a sample drawing application with multiple UI components with complex fu
 
 ## Decoder Glass
 
-This mobile application was developed with Android Studio (using its direct UI elements for WYSIWYG editiing, as well as direct coding in Java and XML). The application guides a user through developing an "encoded" message that can then be shared, printed, etc., and "decoded" with the app's built-in red camera overlay. General design elements follow Android's "Material Design" concepts.
+This mobile application was developed with Android Studio (using its view modes to design UI elements via WYSIWYG editiing, as well as direct coding in Java and XML). The application guides a user through developing an "encoded" message that can then be shared, printed, etc., and "decoded" with the app's built-in red camera overlay. General design elements follow Android's "Material Design" concepts.
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/decoder-glass1.jpg)
 
