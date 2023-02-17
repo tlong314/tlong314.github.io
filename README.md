@@ -6,7 +6,7 @@ This page host screenshots and links representing years of UI/UX, design concept
 
 This simple mockup of wargame UI components was a collaboration between Stuart Pool and myself.
 
-![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/wargame.png)
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/colored_screenshot.png)
 
 
 ## CMG Pattern Designer (with custom engine)
