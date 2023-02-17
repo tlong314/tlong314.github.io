@@ -20,7 +20,7 @@ This is a sample drawing application with multiple UI components with complex fu
 
 Decoder Glass
 
-This is a mobile application was developed with Android Studio (using its direct UI elements for WYSIWYG editiing, as well as direct coding in Java and XML). The application guides a user through developing an "encoded" message that can then be shared, printed, etc., and "decoded" with the app's built-in red camera overlay. General design elements follow Android's "Material Design" concepts.
+This mobile application was developed with Android Studio (using its direct UI elements for WYSIWYG editiing, as well as direct coding in Java and XML). The application guides a user through developing an "encoded" message that can then be shared, printed, etc., and "decoded" with the app's built-in red camera overlay. General design elements follow Android's "Material Design" concepts.
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/decoder-glass1.jpg)
 
@@ -31,6 +31,21 @@ This is a mobile application was developed with Android Studio (using its direct
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/decoder-glass4.jpg)
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/decoder-glass5.jpg)
+
+
+Color Palettes
+
+Modern design aesthetics often rely on vibrant colors. Below are some sample color palettes I have created. The first palette was developed for my JavaScript-based game engine, cmgame.js. The color screenshots that follow are all from the math game "Swipe Correct" I developed for collegemathgames.com.
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/cmgame_palette.png)
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe1_small.png)
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe2_small.png)
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe3_small.png)
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe4_small.png)
 
 
 SMLLC Checklist
