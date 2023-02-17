@@ -37,7 +37,7 @@ Color Palettes
 
 Modern design aesthetics often rely on vibrant colors. Below are some sample color palettes I have created. The first palette was developed for my JavaScript-based game engine, cmgame.js. The color screenshots that follow are all from the math game "Swipe Correct" I developed for collegemathgames.com.
 
-![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/cmgame_palette.png)
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/cmg_palette.png)
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe1_small.png)
 
