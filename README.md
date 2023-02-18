@@ -1,6 +1,6 @@
 # UI/UX Demo
 
-This page host screenshots and links representing years of UI/UX, design concepts, and development (game, web, and mobile). The content was all designed and developed by me (Tim S. Long), except where colloborations are mentioned.
+This page host screenshots and links representing years of UI/UX, design concepts, and development (game, web, and mobile). The content was all designed and developed by me (Tim S. Long), except where colloborations are mentioned, or others are credited.
 
 ## Wargame Sample UI
 
@@ -39,6 +39,15 @@ Modern design aesthetics involve carefully chosen colors and a palette suitable 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe3_small.png)
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/swipe4_small.png)
+
+
+## Raidsim (by Stuart Pool)
+
+Stuart Pool and I have both worked with multiple game engines before, including Unity and Unreal, but also work in different engines and software environments. Below is a description and screenshot of a game Stuart has been developing, RaidSimulator.
+
+RaidSimulator is a realtime hexagonal-grid based game, built in Godot, a game engine which has many parallels with Unity's design. In this game, players need to keep track of their location, resources, and debuffs of their team. The panels on the left are dynamically spawned and display any active buffs and/or debuffs any individual character receives.
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/raidsim.png)
 
 
 ## Decoder Glass
