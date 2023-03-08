@@ -4,10 +4,15 @@ This page host screenshots and links representing years of UI/UX, design concept
 
 ## Wargame Sample UI
 
-This simple mockup of wargame UI components was a collaboration between Stuart Pool and myself.
+This simple mockup of wargame UI components was a collaboration between Stuart Pool and myself. This was created as a basic mockup demonstration, with basic web tools (HTML/CSS) and GIMP/Photoshop.
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/colored_screenshot.png)
 
+## Tournament Viewer (Figma)
+
+This screen represents a fictional fighting game tournament "CMG Fighters Tournament". A screenshot of a retro-style fighting game is placed in the center to represent the output of a video player that would stream tournament news, player interviews, and match replays. The rest of the screen (all components, fonts, icons) were created in Figma.
+
+![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/TournamentViewer.png)
 
 ## CMG Pattern Designer (with custom engine)
 
@@ -20,7 +25,6 @@ This is a sample drawing application with multiple UI components with complex fu
 The web app gives the end user options to automatically perform extra tasks such as painting above, below, or inside a curve, and adjusting opacity/transparency. With these options set, the colorful pattern below was created with a few quick swipes:
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/pattern_drawing.png)
-
 
 ## Color Palettes
 
