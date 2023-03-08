@@ -10,7 +10,7 @@ This simple mockup of wargame UI components was a collaboration between Stuart P
 
 ## Tournament Viewer (Figma)
 
-This screen represents a fictional fighting game tournament "CMG Fighters Tournament". A screenshot of a retro-style fighting game is placed in the center to represent the output of a video player that would stream tournament news, player interviews, and match replays. The rest of the screen (all components, fonts, icons) were created in Figma.
+This screen represents the online homepage for a fictional fighting game tournament named "CMG Fighters Tournament 2023". A screenshot of a retro-style fighting game is placed in the center to represent the output of a video player that would stream tournament news, player interviews, and match replays. The rest of the screen (page components, fonts styles, icons, color gradients, and everything else) was created in Figma.
 
 ![alt text](https://raw.githubusercontent.com/tlong314/tlong314.github.io/main/TournamentViewer.png)
 
