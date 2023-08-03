@@ -1,6 +1,6 @@
 # UI/UX Demo
 
-This page host screenshots and links representing years of UI/UX, design concepts, and development (game, web, and mobile). The content was all designed and developed by me (Tim S. Long), except where colloborations are mentioned, or others are credited.
+This page host screenshots and links representing years of UI/UX, design concepts, and development (game, web, and mobile). The content was all designed and developed by me (Tim S. Long), except where collaborations are mentioned, or others are credited.
 
 ## Wargame Sample UI
 
